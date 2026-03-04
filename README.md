@@ -1,6 +1,6 @@
 # ai.milady.Milaidy
 
-Flatpak manifest for **Milaidy** — a personal AI assistant built on [ElizaOS](https://github.com/elizaos).
+Flatpak manifest for **Milaidy** — a personal AI assistant built on [elizaOS](https://github.com/elizaos).
 
 ## Build locally
 
